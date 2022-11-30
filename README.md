@@ -1,2 +1,2 @@
-# soloist-gamer
-page for "Soloist Gamer" Youtube Project
+# peerless-gamer
+page for "Peerless Gamer" Youtube Project
