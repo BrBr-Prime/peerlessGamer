@@ -1,5 +1,13 @@
 <link rel="stylesheet" href="./modest.css">
 
+
+
+
+
+
+
+
+
 ## Using the Fate Chart
 
 1. State a Question: Form a Yes/No question
